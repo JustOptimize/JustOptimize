@@ -1,4 +1,4 @@
-### Hi there, I'm JustOptimize - aka Oggetto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
+## Hi there, I'm JustOptimize - aka Oggetto <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></picture>
 This is the place where I work with people and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
