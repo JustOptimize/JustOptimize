@@ -1,34 +1,35 @@
-## Hi there, I'm JustOptimize - aka Oggetto <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></picture>
-This is the place where I work with people and break things :rofl:
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Oggetto&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Aka%20JustOptimize&descAlignY=55&descAlign=61" alt="header" width="100%" height="auto" />
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 💼 &nbsp;I'm currently a Student and a Developer
-- ⚡ &nbsp;Fun fact: I :heart: :cat:s
+<h3>About me</h3>
+🔭 &nbsp;I’m currently working on something cool :wink:<br>
+💼 &nbsp;I'm currently a Student and a Developer<br>
+⚡ &nbsp;Fun fact: I :heart: :cat:s
+<br><br>
 
+<h3>The languages, frameworks, and tools I use</h3>
+<img src="https://img.shields.io/badge/Javascript-B59A30?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">
+<img src="https://img.shields.io/badge/HTML-EB743B?style=for-the-badge&logo=html5&logoColor=E34F26" title="HTML">
+<img src="https://img.shields.io/badge/CSS-04cae0?style=for-the-badge&logo=css3&logoColor=1572B6" title="CSS">
+<img src="https://img.shields.io/badge/PHP-919cc7?style=for-the-badge&logo=php&logoColor=777BB4" title="PHP">
+<img src="https://img.shields.io/badge/Lua-565796?style=for-the-badge&logo=lua&logoColor=2C2D72" title="Lua">
+<img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
+<img src="https://img.shields.io/badge/C%23-7549a3?style=for-the-badge&logo=c-sharp&logoColor=51069e" title="C#">
+<img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
 
-🔗 &nbsp;**Connect with me**
+<img src="https://img.shields.io/badge/Discord.js-4c5e9c?style=for-the-badge&logo=discord&logoColor=7289DA" title="Discord.js">
+<img src="https://img.shields.io/badge/Unity-545454?style=for-the-badge&logo=unity&logoColor=000000" title="Unity">
+<img src="https://img.shields.io/badge/Node.js-214021?style=for-the-badge&logo=node.js&logoColor=339933" title="Node.js">
+<img src="https://img.shields.io/badge/Express.js-2b2b2b?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
 
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" title="Arduino">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code">
+<img src="https://img.shields.io/badge/Git-701f0b?style=for-the-badge&logo=git&logoColor=F05032" title="Git">
+<br><br>
+
+<h3>Connect with me</h3>
 <a href="https://discord.com/users/619203349954166804"><img src="https://skillicons.dev/icons?theme=dark&i=discord" width="40" height="40" title="Discord"></a>
 <a href="https://twitter.com/JustOptimize"><img src="https://skillicons.dev/icons?theme=dark&i=twitter" width="40" height="40" title="Twitter"></a>
 <a href="https://www.instagram.com/justoptimize.dll/"><img src="https://skillicons.dev/icons?theme=dark&i=instagram" width="40" height="40" title="Instagram"></a>
-
-
-<details>
-  <summary><b>🛠️ The languages, frameworks, and tools I use</b></summary>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="40" height="40" title="JavaScript"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?theme=dark&i=html" width="40" height="40" title="HTML"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?theme=dark&i=css" width="40" height="40" title="CSS"></a>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?theme=dark&i=php" width="40" height="40" title="PHP"></a>
-  <a href="https://www.lua.org/"><img src="https://skillicons.dev/icons?theme=dark&i=lua" width="40" height="40" title="Lua"></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?theme=dark&i=py" width="40" height="40" title="Python"></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?theme=dark&i=cs" width="40" height="40" title="C#"></a>
-  <a href="#" target="_blank"><img src="https://media.discordapp.net/attachments/872913652171300875/1016720593309139044/line.png" alt="" width="40" height="40"></a>
-  <a href="https://discord.js.org/#/"><img src="https://skillicons.dev/icons?theme=dark&i=bots" width="40" height="40" title="Discord.js"></a>
-  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?theme=dark&i=unity" width="40" height="40" title="Unity"></a>
-  <a href="#" target="_blank"> <img src="https://media.discordapp.net/attachments/872913652171300875/1016720593309139044/line.png"></a>
-  <a href="https://nodejs.org/en/"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="40" height="40" title="Node.js"></a>
-  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?theme=dark&i=arduino" width="40" height="40" title="Arduino"></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" width="40" height="40" title="Visual Studio Code"></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="40" height="40" title="Git"></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="40" height="40" title="MySQL"></a>
-</details>
+<a href="https://justoptimize.github.io/"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="40" height="40" title="GitHub"></a>
+</div>
