@@ -15,12 +15,14 @@
 <img src="https://img.shields.io/badge/Lua-565796?style=for-the-badge&logo=lua&logoColor=2C2D72" title="Lua">
 <img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
 <img src="https://img.shields.io/badge/C%23-7549a3?style=for-the-badge&logo=c-sharp&logoColor=51069e" title="C#">
-<img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
 <br>
+<img src="https://img.shields.io/badge/Vue.js-3fb27f?style=for-the-badge&logo=vue.js&logoColor=4FC08D" title="Vue.js">
+<img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" title="Lodash">
 <img src="https://img.shields.io/badge/Discord.js-4c5e9c?style=for-the-badge&logo=discord&logoColor=7289DA" title="Discord.js">
-<img src="https://img.shields.io/badge/Unity-545454?style=for-the-badge&logo=unity&logoColor=000000" title="Unity">
-<img src="https://img.shields.io/badge/Node.js-214021?style=for-the-badge&logo=node.js&logoColor=339933" title="Node.js">
 <img src="https://img.shields.io/badge/Express.js-2b2b2b?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
+<img src="https://img.shields.io/badge/Unity-545454?style=for-the-badge&logo=unity&logoColor=000000" title="Unity">
+<img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
+<img src="https://img.shields.io/badge/Node.js-214021?style=for-the-badge&logo=node.js&logoColor=339933" title="Node.js">
 <br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" title="Arduino">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code">
