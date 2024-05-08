@@ -18,7 +18,6 @@
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React">
 <img src="https://img.shields.io/badge/Vue.js-3fb27f?style=for-the-badge&logo=vue.js&logoColor=4FC08D" title="Vue.js">
-<img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" title="Lodash">
 <img src="https://img.shields.io/badge/Discord.js-4c5e9c?style=for-the-badge&logo=discord&logoColor=7289DA" title="Discord.js">
 <img src="https://img.shields.io/badge/Express.js-2b2b2b?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
 <img src="https://img.shields.io/badge/Unity-545454?style=for-the-badge&logo=unity&logoColor=000000" title="Unity">
