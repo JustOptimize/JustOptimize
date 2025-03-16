@@ -34,5 +34,5 @@
 <a href="https://discord.com/users/619203349954166804"><img src="https://skillicons.dev/icons?theme=dark&i=discord" width="40" height="40" title="Discord"></a>
 <a href="https://twitter.com/JustOptimize"><img src="https://skillicons.dev/icons?theme=dark&i=twitter" width="40" height="40" title="Twitter"></a>
 <a href="https://www.instagram.com/oggetto.zip/"><img src="https://skillicons.dev/icons?theme=dark&i=instagram" width="40" height="40" title="Instagram"></a>
-<a href="https://justoptimize.github.io/"><img src="https://oggetto.zip/favicon.ico" width="40" height="40" title="Portfolio"></a>
+<a href="https://oggetto.zip"><img src="https://oggetto.zip/favicon.ico" width="40" height="40" title="Portfolio"></a>
 </div>
